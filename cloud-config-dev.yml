@@ -1,2 +1,2 @@
 cloud:
-  config: "lable:master cloud-config-dev version=4"
+  config: "lable:master cloud-config-dev version=5"
